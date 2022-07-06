@@ -2,7 +2,7 @@
 #### - 🌱 I’m currently learning Python and Web Development
 #### - 🔭 I’m currently working on school projects (Sakura Voice Assistant)
 #### - 🎮 I love playing games especially ARPG and FPS
-#### - 🎧 I love listening to Japanese Music
+#### - 🎧 I love listening to Music.
 #### - 🗣️ I speak English and Tagalog, Basic Japanese and still learning German
 #### - 🌏 I love geography and languages
 
