@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm matt and:
 #### - 🌱 I’m currently learning Procedural World Generation and Deep Learning
 #### - 🔭 I’m currently working on school projects
 #### - 🗣️ I speak English and Tagalog, Basic Japanese and still learning German
