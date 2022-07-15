@@ -1,6 +1,6 @@
 ### Hi there 👋
-#### - 🌱 I’m currently learning Python and Web Development
-#### - 🔭 I’m currently working on school projects (Sakura Voice Assistant)
+#### - 🌱 I’m currently learning Procedural World Generation and Deep Learning
+#### - 🔭 I’m currently working on school projects
 #### - 🗣️ I speak English and Tagalog, Basic Japanese and still learning German
 
 <!--
