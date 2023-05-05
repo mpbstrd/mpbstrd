@@ -1,6 +1,6 @@
 # <p align="center"> Hi there 👋 I'm Matthew Perry Bustarde </p>
-- 🌱 I’m currently learning Procedural World Generation and Deep Learning
-- 🔭 I’m currently working on school projects
+- 🌱 I’m currently learning Flutter and Firebase
+- 🔭 I’m currently working on a <a href="https://github.com/KyleChristian1721/ThesisProject">Thesis Project</a> and OJT projects.
 - 🗣️ I speak English and Tagalog, Basic Japanese and still learning German
 
 Techstack: <br/>
