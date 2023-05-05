@@ -1,8 +1,9 @@
-# Hi there 👋 I'm Matthew Perry Bustarde
-## an aspiring developer
+# <p align="center"> Hi there 👋 I'm Matthew Perry Bustarde </p>
 #### - 🌱 I’m currently learning Procedural World Generation and Deep Learning
 #### - 🔭 I’m currently working on school projects
 #### - 🗣️ I speak English and Tagalog, Basic Japanese and still learning German
+
+
 
 <!--
 **mpbstrd/mpbstrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
