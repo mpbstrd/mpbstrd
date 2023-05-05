@@ -10,9 +10,9 @@ Techstack: <br/>
 
 ## Statistics
 <div class='container'>
-<img style="height: 300px; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api?username=mpbstrd&show_icons=true&theme=tokyonight&showicons=true" />
+<img style="height: 400px; width: 33%;" class="img" src="https://github-readme-stats.vercel.app/api?username=mpbstrd&show_icons=true&theme=tokyonight&showicons=true" />
 &nbsp;&nbsp;
-<img style="height: 300px; width: 27%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpbstrd&langs_count=5&theme=tokyonight&layout=compact" />
+<img style="height: 400px; width: 27%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpbstrd&langs_count=5&theme=tokyonight&layout=compact" />
 &nbsp;&nbsp;
-<img style="height: 300px; width: 33%;" class="img" src="https://streak-stats.demolab.com/?user=mpbstrd&theme=dark" />
+<img style="height: 400px; width: 33%;" class="img" src="https://streak-stats.demolab.com/?user=mpbstrd&theme=dark" />
 </div>
