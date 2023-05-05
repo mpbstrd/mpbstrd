@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on a <a href="https://github.com/KyleChristian1721/ThesisProject">Thesis Project</a> and OJT projects.
 - 🗣️ I speak English and Tagalog, Basic Japanese and still learning German
 
+## [still working under this area]
+
 Techstack: <br/>
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/vuejs.svg" height="70" width="70">
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" height="70" width="70">
