@@ -3,12 +3,13 @@
 - 🔭 I’m currently working on a <a href="https://github.com/KyleChristian1721/ThesisProject">Thesis Project</a> and OJT projects.
 - 🗣️ I speak English and Tagalog, Basic Japanese and still learning German
 
-## [still working under this area]
-
-Techstack: <br/>
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/frameworks/vuejs.svg" height="70" width="70">
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" height="70" width="70">
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/c%23.svg" height="70" width="70">
+## My skills
+### Languages and tools i have used before
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,py,c,cs,cpp,git)](https://skillicons.dev)
+### Im currently using and learning
+[![My Skills](https://skillicons.dev/icons?i=firebase,flutter,unity,github,vscode)](https://skillicons.dev)
+### What i want to learn
+[![My Skills](https://skillicons.dev/icons?i=graphql,react,tensorflow,postman)](https://skillicons.dev)
 
 ## Statistics
 <div class='container' style="text-align: center">
