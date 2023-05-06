@@ -9,7 +9,7 @@
 ### Im currently using and learning
 [![My Skills](https://skillicons.dev/icons?i=firebase,flutter,unity,github,vscode)](https://skillicons.dev)
 ### What i want to learn
-[![My Skills](https://skillicons.dev/icons?i=graphql,tensorflow,postman)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=graphql,tensorflow)](https://skillicons.dev)
 
 ## Statistics
 <div class='container' style="text-align: center">
