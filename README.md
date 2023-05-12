@@ -5,9 +5,9 @@
 
 ## My skills
 ### Languages and tools i have used before
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,py,c,cs,cpp,react,redux,git&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,py,c,cs,cpp,react,firebase,redux,git&perline=5)](https://skillicons.dev)
 ### Im currently using and learning
-[![My Skills](https://skillicons.dev/icons?i=firebase,flutter,unity,github,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter,unity,github,vscode)](https://skillicons.dev)
 ### What i want to learn
 [![My Skills](https://skillicons.dev/icons?i=graphql,tensorflow)](https://skillicons.dev)
 
