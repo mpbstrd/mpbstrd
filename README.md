@@ -1,6 +1,6 @@
 # <p align="center"> Hi there 👋 I'm Matthew Perry Bustarde </p>
-- 🌱 I’m currently learning Flutter
-- 🔭 I’m currently working on an OJT project.
+- 🌱 I’m currently learning Data Analytics and Engineering
+- 🔭 I’m currently looking for an entry level job
 - 🗣️ I speak English and Tagalog, Basic Japanese and still learning German
 
 ## My skills
