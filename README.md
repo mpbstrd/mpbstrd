@@ -4,6 +4,8 @@
 - 🗣️ I speak English and Tagalog, Basic Japanese and still learning German
 
 ## My skills
+### My current tech stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,mysql,cs,git)](https://skillicons.dev)
 ### Languages and tools i have used before
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,mysql,py,c,cs,cpp,react,firebase,redux,git,flutter,unity,github,vscode&perline=6)](https://skillicons.dev)
 ### What i want to learn
