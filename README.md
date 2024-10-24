@@ -1,5 +1,5 @@
 # <p align="center"> Hi there 👋 I'm Matthew Perry Bustarde </p>
-- 🌱 I’m currently studying .NET Core 8 and blazor
+- 🌱 I’m currently studying .NET Core 8 and Blazor
 - 🔭 I’m currently working as a .NET Developer
 - 🗣️ I speak English and Tagalog, Basic Japanese and still learning German
 
