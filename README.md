@@ -9,8 +9,9 @@
 ### Languages and tools i have used before
 [![My Skills](https://skillicons.dev/icons?i=php,py,c,cpp,react,firebase,redux,flutter,unity,github,vscode&perline=6)](https://skillicons.dev)
 
-## Statistics
 <!-- 
+## Statistics
+
 <div class='container' style="text-align: center">
 <img class="img" src="https://github-readme-stats.vercel.app/api?username=mpbstrd&show_icons=true&theme=tokyonight&showicons=true" /> <br>
 <!-- <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mpbstrd&langs_count=5&theme=tokyonight&layout=compact" /> <br>
