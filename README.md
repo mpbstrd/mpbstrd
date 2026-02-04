@@ -33,6 +33,6 @@
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [your-linkedin](https://www.linkedin.com/in/mpbstrd)  
-- GitHub: [yourusername](https://github.com/mpbstrd)  
-- Email: [gmail](matthewperrybustarde@gmail.com)
+- LinkedIn: https://www.linkedin.com/in/mpbstrd
+- GitHub: https://github.com/mpbstrd 
+- Email: matthewperrybustarde@gmail.com
