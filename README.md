@@ -1,6 +1,6 @@
 # <p align="center"> Hi there 👋 I'm Matthew </p>
-- 🌱 I’m currently studying .NET Core 8 and Blazor
-- 🔭 I’m currently working as a .NET Developer
+- 🌱 I’m currently studying AWS Cloud Services, System Design, and Docker.
+- 🔭 I’m currently working as a Software Developer @ Development Bank of the Philippines.
 - 🗣️ I speak English and Tagalog, Basic Japanese and still learning German
 
 ## My skills
