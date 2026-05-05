@@ -15,9 +15,9 @@
 ---
 
 ## 🌱 About Me
-- 🔭 Currently working as a **Software Developer @ Development Bank of the Philippines**  
-- 🌱 Learning **AWS Cloud Services, System Design, Docker**  
-- 🗣️ Languages: **English, Tagalog, Basic Japanese, learning German**  
+- 🔭 Currently working as a **Software Engineer @ Accenture Inc.**  
+- 🌱 Learning **AWS Cloud Services, System Design**  
+- 🗣️ Languages: **English, Tagalog, Japanese, learning German**  
 - 🎮 Hobbies: Coding 💻, Hiking🗻, Travelling✈️, and Gaming🎮
 
 ---
