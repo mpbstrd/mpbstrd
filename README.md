@@ -16,9 +16,9 @@
 
 ## 🌱 About Me
 - 🔭 Currently working as a **Software Engineer @ Accenture Inc.**  
-- 🌱 Learning **AWS Cloud Services, System Design**  
-- 🗣️ Languages: **English, Tagalog, Japanese, learning German**  
-- 🎮 Hobbies: Coding 💻, Hiking🗻, Travelling✈️, and Gaming🎮
+- 🌱 Learning **Cloud Services**  
+- 🗣️ Languages: **English, Tagalog, Japanese**  
+- 🎮 Hobbies: Coding 💻, Hiking🗻, Travelling✈️, Board Games🎲 and Gaming🎮
 
 ---
 
