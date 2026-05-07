@@ -25,7 +25,7 @@
 ## 💻 My Tech Stack
 
 ### Current
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,mysql,dotnet,cs,git,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,mysql,git,cs,dotnet,visualstudio,azure&perline=6)](https://skillicons.dev)
 
 ### Previously Used
 [![My Skills](https://skillicons.dev/icons?i=php,py,c,cpp,react,firebase,redux,flutter,unity,github,vscode&perline=6)](https://skillicons.dev)
